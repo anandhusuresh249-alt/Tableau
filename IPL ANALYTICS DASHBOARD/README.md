@@ -1,1 +1,1 @@
-IPL Analytics Project
+Interactive IPL Analytics Dashboard built using Tableau to analyze IPL seasons, team performance, player statistics, and match insights through four dynamic dashboards with interactive filters and visualizations.
